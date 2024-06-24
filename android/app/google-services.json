@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294943278485",
+    "project_id": "yahya-event",
+    "storage_bucket": "yahya-event.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294943278485:android:2611f23fb03db058c9e29c",
+        "android_client_info": {
+          "package_name": "com.example.untitled7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ijYrBBSr4LcPRdetMGsiBlGLOL7bzow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294943278485:android:7722c341e8b7d567c9e29c",
+        "android_client_info": {
+          "package_name": "com.example.untitled9"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2ijYrBBSr4LcPRdetMGsiBlGLOL7bzow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
